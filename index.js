@@ -1,6 +1,6 @@
 //this is a test 
 
-function runAlert {
+function runAlert() {
     alert("Hi, this is Javascript talking to you.");
 };
 
