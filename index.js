@@ -1,3 +1,7 @@
 //this is a test 
 
-alert("Hi, this is Javascript talking to you.");
+function runAlert {
+    alert("Hi, this is Javascript talking to you.");
+};
+
+runAlert();
